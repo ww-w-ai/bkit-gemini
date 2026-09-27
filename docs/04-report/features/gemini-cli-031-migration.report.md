@@ -247,4 +247,4 @@ Items deferred from v1.5.6 scope, now enabled by feature flags:
 ---
 
 *bkit Vibecoding Kit v1.5.6 — Gemini CLI v0.31.0 Migration Complete*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

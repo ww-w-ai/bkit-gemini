@@ -368,4 +368,4 @@
 > v0.35.0 이상의 기능은 Preview/Nightly로 변경 가능성이 있으며, 정식 릴리스 시 재검증이 필요합니다.
 >
 > *bkit Vibecoding Kit - gemini-researcher agent*
-> *Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+> *Copyright 2024-2026 DubDubDub Corp.*

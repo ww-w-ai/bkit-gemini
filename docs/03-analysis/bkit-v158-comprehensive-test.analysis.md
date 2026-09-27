@@ -243,4 +243,4 @@ All design requirements are fully implemented. The 6 changed items are all enhan
 ---
 
 *bkit-gemini v1.5.8 Comprehensive Test Gap Analysis*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

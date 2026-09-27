@@ -1032,4 +1032,4 @@ run_shell_command: node tests/run-all.js --priority P0
 ---
 
 *bkit-gemini v1.5.8 종합 테스트 설계서*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

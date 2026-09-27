@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-v0.34.0+-blue.svg)](https://github.com/google-gemini/gemini-cli)
 [![Version](https://img.shields.io/badge/Version-2.0.7-green.svg)](CHANGELOG.md)
-[![Author](https://img.shields.io/badge/Author-POPUP%20STUDIO-orange.svg)](https://popupstudio.ai)
+[![Author](https://img.shields.io/badge/Author-DubDubDub-orange.svg)](https://ww-w.ai)
 
 > **PDCA methodology + Context Engineering for AI-native development**
 
@@ -62,9 +62,9 @@ Apache 2.0 — see [LICENSE](LICENSE).
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/popup-studio-ai/bkit-gemini/issues)
-- Discussions: [GitHub Discussions](https://github.com/popup-studio-ai/bkit-gemini/discussions)
-- Maintainer: [POPUP STUDIO PTE. LTD.](https://popupstudio.ai)
+- Issues: [GitHub Issues](https://github.com/ww-w-ai/bkit-gemini/issues)
+- Discussions: [GitHub Discussions](https://github.com/ww-w-ai/bkit-gemini/discussions)
+- Maintainer: [DubDubDub Corp.](https://ww-w.ai)
 
 ---
 

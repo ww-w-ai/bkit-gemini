@@ -879,4 +879,4 @@ tc19-v031-policy-hooks.js
 
 *bkit Vibecoding Kit v1.5.6 — Comprehensive Extension Test Design*
 *Generated: 2026-02-28*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

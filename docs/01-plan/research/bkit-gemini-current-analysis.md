@@ -656,4 +656,4 @@ bkit-gemini는 bkit-claude-code의 Gemini CLI 포크이며, 아래와 같이 분
 ---
 
 *분석 완료: 2026-03-11 | bkit-gemini v1.5.7*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

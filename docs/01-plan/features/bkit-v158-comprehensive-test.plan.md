@@ -1637,4 +1637,4 @@ node tests/run-all.js --sprint 4    # 보안 + 에지 + 경계 + 복구
 ---
 
 *bkit-gemini v1.5.8 종합 테스트 계획서*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

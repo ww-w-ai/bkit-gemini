@@ -1113,4 +1113,4 @@ Phase G: Gemini 특화
 ---
 
 *bkit-gemini v1.5.8 상세 설계서*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

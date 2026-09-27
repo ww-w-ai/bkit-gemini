@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-**Email**: contact@popupstudio.ai
+**Email**: biz@ww-w.ai
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -46,4 +46,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-*POPUP STUDIO PTE. LTD.*
+*DubDubDub Corp.*

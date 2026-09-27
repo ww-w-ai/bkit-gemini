@@ -445,4 +445,4 @@ The total investment of ~45-65 engineering days across three releases transforms
 ---
 
 *bkit Vibecoding Kit v1.5.5 - Feature Enhancement Proposals*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

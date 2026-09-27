@@ -187,4 +187,4 @@ v2.0.0 (Architecture - Future)
 ---
 
 *bkit Vibecoding Kit v1.5.5 - Gemini CLI v0.31.0 Upgrade Analysis Plan*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*
