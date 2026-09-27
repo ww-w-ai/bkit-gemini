@@ -4,11 +4,11 @@ Collect GitHub statistics for the bkit-gemini repository.
 
 Execute the following commands to gather data:
 
-!{gh repo view popup-studio-ai/bkit-gemini --json stargazerCount,forkCount,watchers,issues,pullRequests,createdAt,pushedAt}
+!{gh repo view ww-w-ai/bkit-gemini --json stargazerCount,forkCount,watchers,issues,pullRequests,createdAt,pushedAt}
 
-!{gh api repos/popup-studio-ai/bkit-gemini/traffic/views}
+!{gh api repos/ww-w-ai/bkit-gemini/traffic/views}
 
-!{gh api repos/popup-studio-ai/bkit-gemini/traffic/clones}
+!{gh api repos/ww-w-ai/bkit-gemini/traffic/clones}
 
 Generate a summary report with:
 - Stars, forks, watchers

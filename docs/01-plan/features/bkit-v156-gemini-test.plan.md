@@ -440,4 +440,4 @@ gemini
 
 *Test Plan prepared by CTO Team*
 *bkit Vibecoding Kit v1.5.6 Comprehensive Test Plan*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

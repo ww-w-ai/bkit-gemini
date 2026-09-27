@@ -4,7 +4,7 @@
 
 ## Install
 ```bash
-gemini extensions install https://github.com/popup-studio-ai/bkit-gemini
+gemini extensions install https://github.com/ww-w-ai/bkit-gemini
 gemini -p "bkit Hi"
 ```
 Expected: `bkit Vibecoding Kit v2.0.7 activated (Gemini CLI) - Level: Starter`.

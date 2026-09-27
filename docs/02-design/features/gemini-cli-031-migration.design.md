@@ -938,4 +938,4 @@ Phase 2: Feature Enhancements (P1) ─── 병렬 가능
 ---
 
 *bkit Vibecoding Kit v1.5.6 - Gemini CLI v0.31.0 Migration Design*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

@@ -9,7 +9,7 @@
 ### Via CLI (Recommended)
 
 ```bash
-gemini extensions install https://github.com/popup-studio-ai/bkit-gemini.git
+gemini extensions install https://github.com/ww-w-ai/bkit-gemini.git
 ```
 
 This reinstalls the extension with the latest version from the repository.
@@ -101,7 +101,7 @@ These hooks are non-interactive, performance-optimized, and essential for the Co
 
 ## Relationship to bkit-claude-code
 
-bkit-gemini is a fork of [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code), adapted for Gemini CLI compatibility. Key differences:
+bkit-gemini is a fork of [bkit-claude-code](https://github.com/ww-w-ai/bkit-claude-code), adapted for Gemini CLI compatibility. Key differences:
 
 | Aspect | bkit-claude-code | bkit-gemini |
 |--------|-----------------|-------------|
@@ -130,7 +130,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-Copyright 2024-2026 POPUP STUDIO PTE. LTD.
+Copyright 2024-2026 DubDubDub Corp.
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
 
@@ -140,9 +140,9 @@ You must include the [NOTICE](NOTICE) file in any redistribution.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/popup-studio-ai/bkit-gemini/issues)
-- **Email**: contact@popupstudio.ai
+- **Issues**: [GitHub Issues](https://github.com/ww-w-ai/bkit-gemini/issues)
+- **Email**: biz@ww-w.ai
 
 ---
 
-Made with AI by [POPUP STUDIO](https://popupstudio.ai)
+Made with AI by [DubDubDub](https://ww-w.ai)

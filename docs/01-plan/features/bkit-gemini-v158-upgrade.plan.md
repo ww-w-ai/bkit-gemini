@@ -423,4 +423,4 @@ Week 4:
 ---
 
 *bkit-gemini v1.5.8 고도화 계획서 - Plan-Plus 브레인스토밍 기반*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

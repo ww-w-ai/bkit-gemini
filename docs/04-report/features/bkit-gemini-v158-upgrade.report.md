@@ -452,4 +452,4 @@
 ---
 
 *bkit-gemini v1.5.8 PDCA 사이클 완료*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

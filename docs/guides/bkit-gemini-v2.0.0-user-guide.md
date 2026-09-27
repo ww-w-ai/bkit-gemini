@@ -4,7 +4,7 @@
 > "Write your idea. bkit does the rest."
 >
 > 버전: 2.0.0 | 최종 업데이트: 2026-03-21
-> 라이선스: Apache 2.0 | 개발: POPUP STUDIO PTE. LTD.
+> 라이선스: Apache 2.0 | 개발: 덥덥덥(DubDubDub Corp.)
 
 ---
 
@@ -93,7 +93,7 @@ bkit v2.0.0
 npm install -g @google/gemini-cli
 
 # 2. bkit-gemini 클론
-git clone https://github.com/popup-studio-ai/bkit-gemini.git
+git clone https://github.com/ww-w-ai/bkit-gemini.git
 
 # 3. 프로젝트에 bkit 연결
 cd your-project
@@ -1593,5 +1593,5 @@ bkit-gemini/
 
 > **bkit v2.0.0** - AI와 함께하는 체계적 개발의 시작
 >
-> 문의: https://github.com/popup-studio-ai/bkit-gemini
+> 문의: https://github.com/ww-w-ai/bkit-gemini
 > 라이선스: Apache 2.0

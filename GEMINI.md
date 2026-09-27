@@ -87,4 +87,4 @@ Exception: If user says "just build it" or "skip docs", proceed directly.
 ---
 
 *bkit Vibecoding Kit v2.0.7 - Gemini CLI Native Edition*
-*Copyright 2024-2026 POPUP STUDIO PTE. LTD.*
+*Copyright 2024-2026 DubDubDub Corp.*

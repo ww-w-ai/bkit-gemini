@@ -48,7 +48,7 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ## Relationship to bkit-claude-code
 
-bkit-gemini is a fork of [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code). When contributing:
+bkit-gemini is a fork of [bkit-claude-code](https://github.com/ww-w-ai/bkit-claude-code). When contributing:
 
 - Platform-specific changes (Gemini CLI) go here
 - Core methodology improvements may be upstreamed to bkit-claude-code
@@ -60,4 +60,4 @@ By contributing, you agree that your contributions will be licensed under the Ap
 
 ## Questions?
 
-Feel free to open a discussion or contact us at contact@popupstudio.ai
+Feel free to open a discussion or contact us at biz@ww-w.ai

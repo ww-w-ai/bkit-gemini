@@ -4,15 +4,15 @@ Thank you to all the contributors who have helped make bkit-gemini better!
 
 ## Core Team
 
-### POPUP STUDIO PTE. LTD.
+### DubDubDub Corp.
 
 - **Role**: Creator and Primary Maintainer
-- **Website**: [popupstudio.ai](https://popupstudio.ai)
-- **Email**: contact@popupstudio.ai
+- **Website**: [ww-w.ai](https://ww-w.ai)
+- **Email**: biz@ww-w.ai
 
 ## Origin
 
-bkit-gemini is a fork of [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code), adapted for Gemini CLI compatibility.
+bkit-gemini is a fork of [bkit-claude-code](https://github.com/ww-w-ai/bkit-claude-code), adapted for Gemini CLI compatibility.
 
 ## How to Contribute
 
